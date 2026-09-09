@@ -1,23 +1,73 @@
 # Research Frontier
 
-Unresolved questions only, ranked by expected information gain. These are the residual questions from Q001; none has been investigated as a second pass.
+State after [Synthesis 008](SYNTHESIS_008_GLOBAL_OEE_RESEARCH_BOUNDARY.md). There are no active programs and no active hypothesis.
 
-## Q001a — Explain residual stagnation
+## GLOBAL OEE FRONTIER — BLOCKED
 
-Status: OPEN / PARTIALLY EXPLORED. Priority: 1.
+**Question:** Can an artificial evolutionary system provide an auditable long-run OEE-positive history and a closely matched OEE-negative regime that permit causal discrimination between continued possibility generation and closure?
 
-After accounting for within-size adaptation and ancestry-dependent accessibility, what explains eventual loss of adaptive novelty: competitive exclusion, restricted viable transitions, extinction, or insufficiently varied functional interactions? What existing evidence separates their causal contributions across ancestral genomes and environments?
+**Reason:** The reviewed repository contains component positives but no stable broad/hallmark-positive phenomenon plus matched negative/interventional contrast.
 
-The original paper attributed limited ecology to insufficient functional interaction and a fixed fitness landscape; later results qualify that account. Which precise part survives? [Original §3.9](https://bingdev.binghamton.edu/sayama/papers/ALIFE5-4-343.pdf), [later genetic evidence](https://bingdev.binghamton.edu/sayama/papers/Complexity-preprint.pdf)
+**Unblock:** A same or closely matched system supplies strong positive and negative regimes under compatible evidence objects, histories, observation budgets, and a causally meaningful intervention.
 
-## Q001b — Distinguish long exploration from OEE
+## AFN — PAUSED
 
-Status: OPEN / UNKNOWN. Priority: 2.
+**Boundary:** Stringmol supports two finite ordered AFN events; ongoing AFN and scheme-independent functional-class reproducibility remain unestablished. The event-history method is conditionally validated and the robustness protocol is ready.
 
-Which published Evoloop trajectories establish continued *adaptive* novelty, rather than genotype turnover, recurrence, size growth, or mutation-biased diversification? Under which explicit novelty definition, observation scale, and time horizon can their open-endedness be assessed? Does any existing analysis distinguish finite-grid recurrence from earlier functional stagnation?
+**Unblock:** Genuine scheme-independent, domain-literate external coders classify identical blinded frozen packets before adjudication. Stronger ongoingness work additionally requires a substantially richer event history.
 
-## Q001c — Determine the scope of hereditary constraints
+## COMPLEXITY — PAUSED
 
-Status: OPEN / PARTIALLY EXPLORED. Priority: 3.
+**Boundary:** The S/I method is retrospectively validated; Aevol is `(S2,I0)`, Geb is `(S1,I4)`, and **NO STRONG S/I CONJUNCTION CASE WAS FOUND IN THE REVIEWED SEARCH SPACE**.
 
-Are reported conserved subsequences invariant under all viable interaction-mediated transitions, or only sampled genealogies? What can actually be established about accessible reproductive organizations beyond the studied loop families, including pathways through non-exactly-reproducing intermediates?
+**Unblock:** A credible same-object package supplies compatible S3/S4 and I3/qualified-I4 evidence, or suitable new/raw fixed-resource Geb histories or Aevol resource-scaling histories become available under the frozen method.
+
+**Closed while blocked:** CG3D higher-order formalization and further positive-case searching remain low-value/premature.
+
+## BROAD ARTIFICIAL-OEE EXEMPLAR — BLOCKED
+
+**Boundary:** Component exemplar set established; no full hallmark exemplar, strong AFN/complexity conjunction, or single defensible global candidate is established in the fixed set. The prospective evidence specification is retrospectively validated as repository guidance.
+
+**Unblock:** A candidate supplies a compelling declared OEE category or multiple strong OEE-relevant dimensions in an auditable continuous history with nontriviality controls, censoring, provenance, and proportionate validation.
+
+## TRANSFORMATIONAL NOVELTY H2 — PAUSED
+
+**Boundary:** Historical descriptive-model escape remains conceptually distinct, but the known evidence is predominantly retrospective, observer-contract dependent, and overlap-prone. Its current state-changing value is low.
+
+**Unblock:** A materially stronger published evidence base appears in which a scientifically justified model/meta-model was prospectively frozen or can be independently constrained strongly enough to make model escape nontrivial and potentially change the exemplar ranking.
+
+**Closed overlap:** Do not reopen Q003 observer/capacity, Q006 generative capacity, Q008 accessibility, Q016 causal rewiring/type, F2 recurrence, F3 unconditional evolvability, or universal ontology change.
+
+## MECHANISM RESEARCH — BLOCKED
+
+**Boundary:** No stable positive phenomenon plus credible positive exemplar, meaningful negative contrast, and causal discriminability exists. Aevol versus Geb and the component-exemplar mosaic are confounded descriptive comparisons.
+
+**Unblock:** A same or closely matched system supplies a strong OEE-positive regime, a comparable OEE-negative regime, and a causal/interventional contrast under a frozen hallmark and compatible evidence protocol.
+
+## EMPIRICAL SYSTEM CREATION / EXPERIMENTATION — PAUSED
+
+**Boundary:** New or richer longitudinal evidence is the major missing resource, but no concrete positive regime or causal discriminator yet justifies implementation or an architecture choice.
+
+**Unblock:** A credible candidate system/history or matched empirical contrast makes a bounded empirical-design question possible. Design must precede implementation and remain separate from mechanism claims.
+
+## COMPLETED / CLOSED LABELS
+
+- **THEORY Q001–Q027 — COMPLETED:** current repository mechanism-space decomposition exhausted; not field exhaustion.
+- **OEE EXEMPLAR EVIDENCE/REPORTING — COMPLETED:** EX1, EX2, and EX2A reached the empirical exemplar boundary; EX2R, EX2B, EX3, and EX4 are closed under current evidence.
+- **SEMANTIC EVOLUTION — CLOSED AS NEXT PROGRAM:** surviving relational reading is lower-value and substantially overlaps Q004/AFN.
+- **TOKYO TYPE 2 / F3 — CLOSED:** unconditional broad-scope evolvability fails the conditionality/no-free-lunch firewall.
+- **TOKYO TYPE 3 / F2 — CLOSED:** finite transition histories require no universal recurrence mechanism.
+- **F1 — CLOSED / DECOMPOSED:** use domain-specific reproduction, heredity, individuality, and identity theory; Fernandes residue remains empirically blocked.
+- **F4 — CLOSED:** self-maintaining plasticity is terminological repackaging.
+- **F5 — CLOSED:** ecological construction of selection structure is absorbed by prior art.
+- **Cross-unit continuity — CLOSED:** existing relational theory is sufficient at the general level.
+
+## Exact research-scale state
+
+- **Central decision:** **G8-A — GLOBAL LITERATURE/METHODOLOGY PHASE COMPLETE, EMPIRICAL BOUNDARY REACHED**.
+- **Overall completion:** **COMPLETE FOR CURRENT LITERATURE-ONLY PROGRAM**.
+- **Mechanism readiness:** **NOT READY FOR MECHANISM**.
+- **Implementation readiness:** **IMPLEMENTATION NOT JUSTIFIED**.
+- **Exact next operation:** **GLOBAL PAUSE — EMPIRICAL EXEMPLAR BOUNDARY**.
+
+Periodic literature monitoring for the stated unblock conditions is legitimate maintenance, not active research progress.
