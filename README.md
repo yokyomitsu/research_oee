@@ -12,7 +12,7 @@ $$
 }
 $$
 
-現在、この問いを説明する一般的な mechanism は確立していません。このリポジトリは implementation phase ではなく、理論候補を既存研究と反例に照らして検査した後、hallmark ごとの証拠と方法論を整理し、**empirical exemplar boundary で pause** しています。
+現在、この問いを説明する一般的な mechanism は確立していません。SYNTHESIS 009 で選定した **Evoloops の固定／移動 refuge 比較**について、DESIGN 001 は **D2 — 科学的に意味のある効果量の閾値が未解決**と判断しました。比較設計は記録済みですが、feasibility audit や implementation の段階には進んでいません。
 
 この README は、初めて訪れた人が「何の研究か」「どの文書を何のために読むか」を判断するための **navigation / orientation layer** です。canonical research state、frontier、hypothesis、next operation の出典ではありません。
 
@@ -22,13 +22,14 @@ $$
 
 - literature / methodology phase は完了
 - heterogeneous empirical boundary に到達
+- original empirical research は設計の meaningful-effect margin 解決待ち（D2）
 - AFN program は外部独立検証待ちで paused
 - complexity program は strong-S / strong-I conjunction exemplar 待ちで paused
 - exemplar program は empirical boundary に到達
 - mechanism research は未準備
 - implementation は正当化されていない
 
-研究全体の exact next operation は **GLOBAL PAUSE — EMPIRICAL EXEMPLAR BOUNDARY** です。これは OEE が説明済み、あるいは分野全体が尽きたという意味ではありません。
+研究全体の exact next operation は **DESIGN_001A — EVOLOOPS DOMINANCE-RESIDENCE MEANINGFUL-EFFECT MARGIN** です。有限期間の incumbent-majority residence の差について、科学的に意味のある最小効果を定められるかだけを検討します。実験・feasibility audit は未実施であり、OEE や一般機構の主張はありません。
 
 > 最新状態は必ず [STATUS.md](STATUS.md) を参照してください。
 
@@ -90,7 +91,7 @@ $$
 
 1. `STATUS.md`
 2. `FRONTIER.md`
-3. [SYNTHESIS_008_GLOBAL_OEE_RESEARCH_BOUNDARY.md](SYNTHESIS_008_GLOBAL_OEE_RESEARCH_BOUNDARY.md)
+3. [DESIGN_001_EVOLOOPS_REFUGE_PERSISTENCE_MATCHED_EXPERIMENT.md](DESIGN_001_EVOLOOPS_REFUGE_PERSISTENCE_MATCHED_EXPERIMENT.md)
 
 ### 研究全体を日本語で振り返る
 
@@ -156,7 +157,9 @@ $$
 - [SYNTHESIS_005_NEXT_OEE_HALLMARK.md](SYNTHESIS_005_NEXT_OEE_HALLMARK.md): AFN 後の hallmark selection。ongoing evolutionary growth of nontrivial complexity を次の target に選びました。
 - [SYNTHESIS_006_COMPLEXITY_HALLMARK_PROGRAM.md](SYNTHESIS_006_COMPLEXITY_HALLMARK_PROGRAM.md): complexity program の consolidation。strong-S / strong-I conjunction exemplar が reviewed search space に存在しないという境界を確定しました。
 - [SYNTHESIS_007_GLOBAL_OEE_EXEMPLAR_GAP.md](SYNTHESIS_007_GLOBAL_OEE_EXEMPLAR_GAP.md): component exemplars は存在するが、broad artificial-OEE exemplar は確立していないという global exemplar problem を整理します。
-- `SYNTHESIS_008_GLOBAL_OEE_RESEARCH_BOUNDARY.md`: 現在の最終 global checkpoint で、この repository state を理解するうえで最重要の synthesis です。中心結果は **GLOBAL LITERATURE/METHODOLOGY PHASE COMPLETE, EMPIRICAL BOUNDARY REACHED** です。
+- `SYNTHESIS_008_GLOBAL_OEE_RESEARCH_BOUNDARY.md`: literature / methodology phase の最終 global checkpoint。**GLOBAL LITERATURE/METHODOLOGY PHASE COMPLETE, EMPIRICAL BOUNDARY REACHED** を確定した歴史記録です。
+- [SYNTHESIS_009_ORIGINAL_EMPIRICAL_FRONTIER_SELECTION.md](SYNTHESIS_009_ORIGINAL_EMPIRICAL_FRONTIER_SELECTION.md): 六候補を比較し、Evoloops refuge persistence を唯一の frontier に選定。先行研究、有限の null result、confound、設計 gate と選定理由を記録します。
+- [DESIGN_001_EVOLOOPS_REFUGE_PERSISTENCE_MATCHED_EXPERIMENT.md](DESIGN_001_EVOLOOPS_REFUGE_PERSISTENCE_MATCHED_EXPERIMENT.md): 固定／周期的に移動する refuge、paired world、species identity、有限の主要評価項目、extinction と媒介過程を定義。D2 として meaningful-effect margin を唯一の未解決設計事項に残します。
 
 #### Q-series / theoretical research
 
@@ -341,13 +344,13 @@ closed / decomposed / blocked の正確な範囲は `KNOWN.md` と `FRONTIER.md`
 このリポジトリは software project というより、**research reasoning / evidence repository** です。
 
 - artificial-life system の implementation 自体は目的ではありません。
-- mechanism justification より前に system や architecture を実装しません。
+- 専用の experiment-design gate を通過し、別途正当化されるまで implementation を計画・実行しません。一般 mechanism の主張にはさらに独自の証拠が必要です。
 - 文献、証拠、反例、測定条件、falsification boundary を研究記憶として保存します。
 - 例外的に、deposited Stringmol history の read-only static analysis のような限定的 computational analysis は存在しますが、新しい simulation の実行ではありません。
 
 ## AI agent / Codex で研究を再開する場合
 
-現在は **GLOBAL PAUSE** 中です。再開条件を満たす新しい empirical resource がない限り、研究 task を作ること自体を進歩と見なしません。
+現在は DESIGN 001 の D2 判定に従い、meaningful-effect margin の解決待ちです。設計記録は実装の許可ではありません。その他の paused / blocked program は個別の再開条件を維持します。
 
 1. `README.md` は navigation document にすぎません。
 2. `docs/archive/RESEARCH_RETROSPECTIVE_JA.md` は retrospective only です。
@@ -366,7 +369,7 @@ $$
 \boxed{\text{pause}\neq\text{failure}}
 $$
 
-現在停止している理由は、内部の literature / methodology work をさらに増やすより、新しい empirical evidence、外部独立検証、same-object history、または matched causal contrast の情報価値が高くなったためです。
+SYNTHESIS 008 の global pause は、内部の literature / methodology work を増やすより、新しい empirical evidence の情報価値が高くなったことを示します。SYNTHESIS 009 はその科学的境界を維持し、欠けた比較証拠を作るための frontier を選定しました。
 
 $$
 \boxed{
@@ -376,7 +379,7 @@ $$
 }
 $$
 
-「何か次の task を作ること」を進歩とはみなしません。停止条件を守り、unblock condition が満たされるまで pause を維持することも、premature mechanism や implementation を防ぐ研究成果の一部です。
+「何か次の task を作ること」を進歩とはみなしません。選定した設計が gate を通らなければ停止します。その他の branch は unblock condition が満たされるまで再開せず、premature mechanism や implementation を防ぎます。
 
 ## ライセンス / 引用
 

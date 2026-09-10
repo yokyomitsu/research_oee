@@ -4,7 +4,7 @@ Passes Q001–Q027, Syntheses 001–008, Evidence Map 003, Evidence Matrices 001
 
 ## Canonical compressed boundary
 
-The detailed K-record below is retained for provenance. Its stable conceptual content compresses to eighty-seven statements:
+The detailed K-record below is retained for provenance. Its stable conceptual content compresses to eighty-nine statements:
 
 1. **Observed evolutionary activity is weaker than OEE.** Replication, heritable variation, adaptation, diversity, novelty, complexity, and OEE are distinct. Convergence of one observable and finite non-observation do not establish closure of future evolutionary possibility. (K001–K019)
 2. **Closure and novelty are claim-relative.** Existing OEE definitions target non-equivalent properties, and every closure claim must specify entities, outcomes, history, environment, and dynamics. Conditional objectivity is possible; one universal novelty ontology is not established. (K007–K021)
@@ -92,7 +92,9 @@ The detailed K-record below is retained for provenance. Its stable conceptual co
 84. **Reporting limitations are material locally but do not explain the global exemplar gap by themselves.** The validated EX2 guidance improves reconstruction and auditability without creating ongoing AFN, a strong S/I conjunction, a broad exemplar, independent validators, or community uptake. (K244)
 85. **No general causal relation between open-endedness and closure is established.** Aevol/Geb and the component-exemplar mosaic are useful descriptive comparisons but are too heterogeneous and confounded to identify a mechanism. (K245)
 86. **Transformational novelty remains conceptually distinct but is not a high-information current program.** Its defensible historical model-escape object is observer-contract dependent, supported mainly by retrospective and overlap-prone candidate classes in the present repository, and unlikely to change exemplar or mechanism readiness without materially stronger evidence. (K246)
-87. **The current literature-only program is complete and paused at the empirical exemplar boundary.** Mechanism and implementation remain unjustified; resumption requires a branch-specific external validator, stronger same-object history, compelling broad/hallmark exemplar, materially stronger transformational-novelty evidence base, or matched positive/negative causal contrast. (K247)
+87. **Synthesis 008 completed the literature-only program at the empirical exemplar boundary.** Its global pause is a historical operational decision; current readiness and the next operation are governed by STATUS.md and FRONTIER.md. Its scientific conclusions remain intact. (K247)
+88. **Evoloops disturbance and refuge relocation are prior art.** Published studies already use periodic localized/distributed clearing, relocate surviving regions, and measure genotype-resolved populations; these operations and their anti-stagnation rationale cannot themselves be claimed as new. (K248)
+89. **Historical event detection needs an explicit direct-reset validity check.** Evoloops' documented structural-death trigger and an external reset are different state transitions; passive observation alone does not guarantee correct counts after intervention. (K249)
 
 ## K001 — Conceptual boundaries
 
@@ -1084,6 +1086,16 @@ The durable results constrain explanations but do not identify a general causal 
 
 The only defensible residual is historical escape from a scientifically justified, predeclared descriptive model and meta-model. The current repository evidence is predominantly retrospective, observer-contract dependent, and entangled with already processed possibility-space, causal-identity, compositionality, and transition questions. An evidence-localization pass is possible in principle, but under the reviewed evidence it is unlikely to change the broad-exemplar or mechanism state before requiring materially stronger histories or independent model-adequacy judgments. Transformational novelty remains paused rather than rejected. [Synthesis 005](SYNTHESIS_005_NEXT_OEE_HALLMARK.md), [Synthesis 008](SYNTHESIS_008_GLOBAL_OEE_RESEARCH_BOUNDARY.md)
 
-## K247 — The current literature-only program is complete at the empirical exemplar boundary
+## K247 — Synthesis 008 completed the literature-only program at the empirical exemplar boundary
+
+Historical decision record; its operation is superseded by [Synthesis 009](SYNTHESIS_009_ORIGINAL_EMPIRICAL_FRONTIER_SELECTION.md). Current operations belong to STATUS.md and FRONTIER.md, not historical K-records.
 
 The global decision is **G8-A — GLOBAL LITERATURE/METHODOLOGY PHASE COMPLETE, EMPIRICAL BOUNDARY REACHED**. Overall completion is **COMPLETE FOR CURRENT LITERATURE-ONLY PROGRAM**; mechanism readiness is **NOT READY FOR MECHANISM**; implementation readiness is **IMPLEMENTATION NOT JUSTIFIED**; and the research-scale operation is **GLOBAL PAUSE — EMPIRICAL EXEMPLAR BOUNDARY**. The hypothesis file remains appropriately empty because positive/negative causal structure is insufficient. Resumption requires a branch-specific external validation resource, materially stronger same-object or broad-exemplar evidence, a stronger transformational-novelty evidence base, or a matched positive/negative causal contrast. [Synthesis 008](SYNTHESIS_008_GLOBAL_OEE_RESEARCH_BOUNDARY.md)
+
+## K248 — Evoloops clearing, refuge relocation and genotype-level measurement are established prior art
+
+Periodic localized and distributed clearing were already compared in Evoloops, with surviving regions relocated between events. A companion study explicitly motivated changing the surviving corner to avoid stagnation in a fixed refuge. The studies identify populations at genotype/loop-dimensions resolution. Disturbance, refuge relocation and genotype diversity are therefore evidence, not new discoveries; neither these operations nor changes in dominance alone establish AFN, complexity growth or OEE. [Salzberg, Antony & Sayama 2004](https://bingdev.binghamton.edu/sayama/papers/BioSystems-preprint.pdf), [Salzberg & Sayama 2004](https://bingdev.binghamton.edu/sayama/papers/Complexity-preprint.pdf)
+
+## K249 — Passive event observation does not establish validity under direct intervention
+
+The documented Evoloops death detector tracks dissolution of an inner-sheath cell through a `2 → 8` transition. Directly resetting such a cell to quiescence takes a different path. A noninteracting observation layer can therefore require separate reconciliation of intervention-induced structural loss; this is a validity requirement, not evidence that a particular historical executable is defective. [Salzberg 2003, §4.3.3](https://uva.computationalscience.nl/papers/archive/Salzberg2003a.pdf), [Design 001](DESIGN_001_EVOLOOPS_REFUGE_PERSISTENCE_MATCHED_EXPERIMENT.md)

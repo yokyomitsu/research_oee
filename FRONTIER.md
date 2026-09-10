@@ -1,6 +1,18 @@
 # Research Frontier
 
-State after [Synthesis 008](SYNTHESIS_008_GLOBAL_OEE_RESEARCH_BOUNDARY.md). There are no active programs and no active hypothesis.
+State after [Design 001](DESIGN_001_EVOLOOPS_REFUGE_PERSISTENCE_MATCHED_EXPERIMENT.md). Exactly one frontier is active; no hypothesis is admitted. Decision D2 leaves one scientific design issue unresolved.
+
+## EVOLOOPS DOMINANCE-RESIDENCE EFFECT MARGIN — ACTIVE
+
+**Question:** What minimum difference in incumbent-majority residence over the frozen 1,000-cycle window is scientifically meaningful enough to support a finite equivalence/null inference?
+
+**Frozen parent design:** Fixed versus deterministic four-corner-cycle refuge, exact counterfactual world pairs, historical birth-defined genotype-plus-dimensions species counts, strict incumbent majority and cycle-end occupancy. The average effect is over spatial registrations of one ancestral history. The inference target is CAUSAL DEPENDENCE / CLOSURE DYNAMICS at environmental-policy level.
+
+**Sole design blocker:** No numerical meaningful-effect margin is yet justified. Census granularity and a complete corner circuit supply units, not scientific importance; variance alone supplies neither. The bounded operation must justify a margin from relevant persistence timescales or an explicit scientific criterion, or reject the intended null inference.
+
+**Limits retained:** Historical fixed-area stagnation is not identified with genotype dominance. Mortality/regrowth can mediate the policy effect. Extinction, low-count artifacts and unresolved detection require the declared bounds. Exact prior-art status remains APPARENTLY UNPERFORMED AFTER BOUNDED SEARCH, with close antecedents. Model fidelity and instrumentation remain future verification requirements, not completed work.
+
+**Sole next operation:** **DESIGN_001A — EVOLOOPS DOMINANCE-RESIDENCE MEANINGFUL-EFFECT MARGIN**.
 
 ## GLOBAL OEE FRONTIER — BLOCKED
 
@@ -44,11 +56,11 @@ State after [Synthesis 008](SYNTHESIS_008_GLOBAL_OEE_RESEARCH_BOUNDARY.md). Ther
 
 **Unblock:** A same or closely matched system supplies a strong OEE-positive regime, a comparable OEE-negative regime, and a causal/interventional contrast under a frozen hallmark and compatible evidence protocol.
 
-## EMPIRICAL SYSTEM CREATION / EXPERIMENTATION — PAUSED
+## EMPIRICAL EXECUTION / NEW SYSTEM CREATION — BLOCKED
 
-**Boundary:** New or richer longitudinal evidence is the major missing resource, but no concrete positive regime or causal discriminator yet justifies implementation or an architecture choice.
+**Boundary:** Design 001 reaches D2: a specified comparison with an unresolved meaningful-effect margin. Feasibility, implementation, pilot and execution have not been authorized by a passed design gate.
 
-**Unblock:** A credible candidate system/history or matched empirical contrast makes a bounded empirical-design question possible. Design must precede implementation and remain separate from mechanism claims.
+**Unblock:** Resolve the scientific margin and pass the design gate before feasibility auditing. Historical-model/instrumentation verification must then precede any separately justified implementation or pilot. A failed design is not permission to invent an architecture.
 
 ## COMPLETED / CLOSED LABELS
 
@@ -64,10 +76,9 @@ State after [Synthesis 008](SYNTHESIS_008_GLOBAL_OEE_RESEARCH_BOUNDARY.md). Ther
 
 ## Exact research-scale state
 
-- **Central decision:** **G8-A — GLOBAL LITERATURE/METHODOLOGY PHASE COMPLETE, EMPIRICAL BOUNDARY REACHED**.
-- **Overall completion:** **COMPLETE FOR CURRENT LITERATURE-ONLY PROGRAM**.
+- **Central decision:** **D2 — DESIGN VALID BUT ONE BOUNDED ISSUE REMAINS**.
+- **Overall state:** Literature/methodology complete; original empirical design has one unresolved scientific margin.
 - **Mechanism readiness:** **NOT READY FOR MECHANISM**.
-- **Implementation readiness:** **IMPLEMENTATION NOT JUSTIFIED**.
-- **Exact next operation:** **GLOBAL PAUSE — EMPIRICAL EXEMPLAR BOUNDARY**.
+- **Implementation readiness:** **IMPLEMENTATION NOT YET JUSTIFIED — DESIGN MARGIN UNRESOLVED**. Not yet ready for feasibility audit.
 
-Periodic literature monitoring for the stated unblock conditions is legitimate maintenance, not active research progress.
+The sole next operation appears in the active frontier above. Frontier selection is completed; the parent design is recorded, not rerun. No alternative candidate, Q-family, or general literature-search program is reactivated. Other unblock conditions remain branch-specific future requirements.

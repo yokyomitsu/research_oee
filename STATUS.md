@@ -1,37 +1,29 @@
-# Research question
+# Current research state — 2026-09-11
 
-Why do artificial evolutionary systems usually converge or close, while natural evolution appears capable of continuing to generate new evolutionary possibilities?
+**Decision: D2 — DESIGN VALID BUT ONE BOUNDED ISSUE REMAINS.** [Design 001](DESIGN_001_EVOLOOPS_REFUGE_PERSISTENCE_MATCHED_EXPERIMENT.md) specifies the Evoloops comparison selected by Synthesis 009. The literature/methodology phase is complete; original empirical research remains at an incomplete design gate. No empirical result exists.
 
-# Stable conclusions
+## Current design and unresolved issue
 
-- The repository's current mechanism-space decomposition is exhausted; the OEE field is not.
-- Darwinian evolution, evolutionary activity, finite novelty, formal possibility, formal unboundedness, complexity increase, resource scalability, and major transitions are each insufficient for OEE.
-- Stringmol supports two finite ordered AFN events; ongoing AFN is not established.
-- Complexity evidence remains split: Aevol is `(S2,I0)`, Geb is `(S1,I4)`, and no strong same-object S/I conjunction is established in the reviewed search space.
-- Strong component exemplars exist, but no full hallmark or broad artificial-OEE exemplar is established in the fixed set.
-- The prospective evidence specification is retrospectively validated as repository guidance; reporting limits matter locally but do not explain the whole exemplar gap.
-- No general causal relation explaining open-endedness versus closure has been established.
+**Evoloops fixed versus cyclically relocating refuge.** Matched deterministic worlds compare incumbent genotype–phenotype species majority occupancy over 1,000 post-divergence disturbance cycles. Inference is conditional on one ancestral history and a declared population of spatial registrations, not independent evolutionary origins.
 
-# Program states
+**Sole blocker:** a scientifically justified minimum meaningful difference in incumbent-majority residence. Measurement granularity, one relocation circuit, and pilot variance do not by themselves establish scientific importance. Without that margin, a confirmatory equivalence/null claim and feasibility sizing are premature.
 
-- **THEORY Q001–Q027 — COMPLETED:** current general mechanism families are closed, decomposed, or empirically blocked.
-- **AFN — PAUSED:** method phase complete; external independent validation required.
-- **COMPLEXITY — PAUSED:** evidence phase complete; strong conjunction exemplar/new evidence required.
-- **OEE EXEMPLARS — COMPLETED:** fixed-set comparison, evidence specification, and retrospective audit reached the empirical exemplar boundary.
-- **HYPOTHESIS-FILE AUDIT — H2, HYPOTHESIS GENERATION PREMATURE FOR EMPIRICAL REASONS:** `HYPOTHESES.md` remains appropriately empty; this is distinct from the paused transformational-novelty hallmark H2.
+The intended inference is **CAUSAL DEPENDENCE / CLOSURE DYNAMICS** at policy level. Realized mortality/regrowth differences may be mediators, not pre-treatment confounds. Fixed-area stagnation is not assumed equivalent to genotype dominance. Extinction and measurement ambiguity have explicit safeguards. Prior art remains **APPARENTLY UNPERFORMED AFTER BOUNDED SEARCH**, now including the recovered 2003 thesis.
 
-# Why mechanism work is not justified
+## Preserved boundary
 
-The repository lacks the required conjunction of a stable positive phenomenon, a credible positive exemplar, meaningful negative/contrast cases, and causal discriminability. Aevol/Geb and the component-exemplar mosaic are causally confounded, not mechanism contrasts.
+- Current Q001–Q027 mechanism decomposition completed; the field is not exhausted and closed general branches remain closed.
+- Stringmol: two finite ordered AFN events; ongoingness and external independent functional-class validation remain unestablished. AFN remains paused.
+- Complexity: `S ≠ I`; Aevol `(S2,I0)`, Geb `(S1,I4)`; no strong same-object S/I conjunction found in the reviewed search space. Complexity remains paused.
+- Component exemplars exist; a broad artificial-OEE exemplar is not established. The exemplar evidence/methodology program is complete.
+- Transformational novelty remains paused; no general cause of OEE versus closure is established. HYPOTHESES.md remains unchanged with no admitted hypothesis.
 
-# Current frontier
+## Readiness and exact next operation
 
-The repository's highest-level current research frontier is whether an artificial evolutionary system can provide an auditable long-run OEE-positive history and a closely matched OEE-negative regime that together permit causal discrimination between continued possibility generation and closure.
+**Mechanism: NOT READY FOR MECHANISM.**
 
-# Current block / unblock conditions
+**Implementation: IMPLEMENTATION NOT YET JUSTIFIED — DESIGN MARGIN UNRESOLVED.** Not yet ready for feasibility audit; model/instrumentation verification, pilot and execution remain separate later decisions.
 
-The global state is **METHODOLOGICALLY MATURE, EMPIRICALLY BLOCKED** through heterogeneous boundaries. Resume only for: genuine external AFN coders; new strong same-object S/I evidence; a compelling auditable broad/hallmark exemplar; a materially stronger transformational-novelty evidence base; or a matched positive/negative system suitable for causal inference.
+**DESIGN_001A — EVOLOOPS DOMINANCE-RESIDENCE MEANINGFUL-EFFECT MARGIN**
 
-# Exact next operation
-
-**GLOBAL PAUSE — EMPIRICAL EXEMPLAR BOUNDARY.** No H2, EMP1, mechanism, formalization, system search, or implementation operation is active.
+Resolve only the meaningful-effect margin or reject the proposed null claim. Do not perform feasibility work or change the frozen question, policies, endpoint or horizon merely to obtain an easy margin. Historical research records and HYPOTHESES.md remain unchanged.
